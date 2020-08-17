@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif, oswald;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+.page-header {
+background-color: #750000;
+color: white;
+font-family: oswald, sans-serif;
+padding: 2rem;
+border-color: #89deef;
+border-width: medium;
+border-style: none none solid none;
+}
