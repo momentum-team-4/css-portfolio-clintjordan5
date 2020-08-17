@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+
+.page-header {
+background-color: #750000;
+color: white;
+padding: 2rem;
+border-color: black;
+border-width: medium;
+border-style: none none solid none;
+}
+
+.profile-photo {
+    width: 100 px;
+    height: 100px;
+    max-width: 100 px;
+}
+
+.img {
+    width: 100 px;
+    height: 100px;
+    max-width: 100 px;
+}
+
+.profile-text {
+    background-color: sandybrown;
+}

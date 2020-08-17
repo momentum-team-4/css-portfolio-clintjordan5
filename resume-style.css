@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 10 10 10 auto;
+    padding: 10 10 10 auto;
+    box-sizing: border-box;
+}
+
+.page-header {
+    background-color: #750000;
+    color: white;
+    padding: 2rem;
+    border-color: black;
+    border-width: medium;
+    border-style: none none solid none;
+    }
